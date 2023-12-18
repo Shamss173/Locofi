@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-work-sans: "Work Sans";
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color: #4040da;
+  --e: #24242e;
+  --a6a76: #4d4d4d;
+  --ffffff: #fff;
+  --color1: #a73a3a;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+  --br-41xl: 60px;
+}
